@@ -21,3 +21,8 @@ Route::get('test',function(){
 echo "string";
 
 });
+Route::get('test2',function(){
+
+echo "string";
+
+});
