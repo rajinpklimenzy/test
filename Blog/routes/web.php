@@ -26,3 +26,10 @@ Route::get('test2',function(){
 echo "string";
 
 });
+
+Route::get('test3',function(){
+
+echo "string";
+
+});
+
